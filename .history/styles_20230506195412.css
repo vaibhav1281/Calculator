@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@100&family=Mulish:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-family: 'Mulish', sans-serif;
+}
+body{
+    width: 100vh;
+    height: 100vh;
+    display: flex;
+    justify-content: center; /* It's move horizontally*/
+    align-items: center; /*It's move vertically*/
+    background: linear-gradient(45deg , #0a0a0a ,#3a4452);
+}
+.calcurator{
+    border: 1px solid #717377;
+    padding: 20px;
+    border-radius: 16px;
+    
+}
